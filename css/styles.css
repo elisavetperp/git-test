@@ -1,0 +1,25 @@
+body {
+    color: blue;
+    font-family: arial;
+    margin: 0px;
+}
+
+div{
+    background-color: aqua;
+    width: 100vw;
+    border: dashed;
+}
+
+.second-div{
+    background-color: purple;
+}
+
+
+#second-li {
+    font-size: 30px;
+}
+img {
+    width:300px;
+    border-radius:50px; 
+}
+
